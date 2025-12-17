@@ -19,7 +19,7 @@ MovieExplorer is an iOS application that allows users to browse, search, and vie
 ![Movie Details](https://github.com/HetShah24-06/IOS_PROJECT_HET/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-04-22%20at%2016.30.11.png)  
 *Movie details page displaying detailed information about the selected movie.*
 
-![Search Movies]((https://github.com/HetShah24-06/IOS_PROJECT_HET/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-04-22%20at%2016.30.07.png))  
+![Search Movies](https://github.com/HetShah24-06/IOS_PROJECT_HET/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-04-22%20at%2016.30.07.png)  
 *Movie search functionality using dynamic search.*
 
 ---
